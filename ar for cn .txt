@@ -1,0 +1,74 @@
+>CN Protocols
+	
+	>HTTP
+	  >Video
+          >Documentation
+	>SMTP
+	  >Simulation
+          >Video
+          >Documentation 
+	>FTP....
+
+>Manual
+ >Documentation 
+	>FTP
+	>SMTP..
+ >Videos
+	>FTP
+	>SMTP..
+
+
+
+
+>header, footer, twitter logo, text to black, padding to div bg, router, copy function
+>Packet color ->
+>31 march -> SSH, SMTP(packet images), SNMP, DHCP(Add router), BGP
+>free images for home page
+
+>1 march -> home Page, 
+________________________________________________________
+>2 march -> simulation of SMTP,
+
+>3 march -> simulation of SSH
+
+>4 march -> simulation of SNMP
+
+>5 march -> simulation of dhcp
+
+>6 march -> simulation of VLAN
+
+clear video with instruction in english ->help menu pdf/video
+
+improve the home page ARNetExperince.com
+
+highlight software application use (target auidence - beginner in CN)
+
+wireless wifi how it works for FTP
+
+Packet Details remove redundancy if there so
+
+Computer Network bg knowledge
+
+5. PPT 
+6. Report
+7. Video FTP, ARP , RARP
+9. Social Media(instagram,linkedln,twitter,Youtube) of Website
+notes microsoft word laptop
+
+simulation of smtp and add images to packet
+add images to http and text
+
+internationlaization (translation)
+newsletter
+
+Dynamic ARnetexperince
+Chatgpt features
+Add Ads
+Paid Subscription based
+Mobile App
+
+Camera 
+
+Educational ARP Games: Create interactive games or challenges that teach ARP concepts through gamification. Develop coding puzzles, quizzes, or simulations where players must solve ARP-related tasks or scenarios using Python or other programming languages.
+
+Interactive Quizzes: Incorporate interactive quizzes or challenges to test users' understanding of ARP concepts. Include multiple-choice questions, true/false statements, or scenario-based challenges to reinforce learning.
