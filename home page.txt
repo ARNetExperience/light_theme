@@ -1,0 +1,54 @@
+#fh5co-featured-menu .fh5co-item.margin_top, #fh5co-gallery .fh5co-item.margin_top, #fh5co-reservation-form .fh5co-item.margin_top {
+  margin-top: 0px;
+}
+
+.learning.html
+<header id="fh5co-header" class="fh5co-cover " role="banner" style="background-image: url(learning1.jpeg);"
+			data-stellar-background-ratio="0.5">
+			<div class="overlay"></div>
+
+.index.html
+<div class="col-md-6  img-wrap animate-box" data-animate-effect="fadeInLeft">
+						<img src="holder2.jpeg" alt="" style="height: 5%;width: 70%;">
+					</div>
+					<div class="col-md-6 animate-box">
+						<div class="section-heading">
+							<h2
+								style="margin-left: -20%;font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif">
+								About ARNetExperience: Revolutionizing Learning through Web AR</h2>
+							<p style="margin-left: -20%;color: white;">Welcome to ARNetExperience, where we're reshaping
+								the landscape of
+
+
+
+.row-pb-md {
+  padding-bottom: 0em !important;
+}
+
+
+#fh5co-footer .fh5co-footer-links li a:hover {
+ text-decoration: none;
+  color: #ea272d;
+}
+
+#fh5co-footer .fh5co-footer-links li a {
+  color: rgba(255, 255, 255, 0.5);
+  text-decoration: none;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+}
+
+#fh5co-footer {
+  /* padding: 2em 0; */
+  padding-top: 1em;
+  padding-left: 0em;
+  padding-bottom: 0em;
+  padding-right: 0em;
+  clear: both;
+}
+
+#fh5co-featured-menu .fh5co-item.margin_top, #fh5co-gallery .fh5co-item.margin_top, #fh5co-reservation-form .fh5co-item.margin_top {
+  margin-top: 0px;
+}
+

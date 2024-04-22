@@ -1,0 +1,35 @@
+VLAN
+DHCP
+
+
+
+1.copied text
+ <span class="text-warning" id="copyTextMessage2"></span>
+
+ // Display message
+                var copyTextMessage2 = document.getElementById("copyTextMessage2");
+                copyTextMessage2.textContent = " Text copied!";
+                setTimeout(function () {
+                    copyTextMessage2.textContent = "";
+                }, 2000); // Clear the message after 2 seconds
+
+
+
+
+2.arrow drop down
+ <script src="https://kit.fontawesome.com/ea03fb3bf9.js" crossorigin="anonymous"></script>
+
+ 
+3. Upadte to sritika github account first
+
+4.replace sritika manjrekar
+arnetexperience
+light_theme
+
+5. Update on ARnetepxerinece github account
+
+
+
+Mobile Reponsive
+
+custom alert
